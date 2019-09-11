@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a software engineer.
 
-### More Information
+### Location
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm living in Kudus, Central Java, Indonesia.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[markus1268@gmail.com](mailto:markus1268@gmail.com)

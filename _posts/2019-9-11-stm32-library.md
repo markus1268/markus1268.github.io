@@ -1,6 +1,7 @@
 ---
 layout: post
 title: STM32 Coding (Bare Metal vs LL vs HL)
+comments: true
 ---
 STM32 coding guideline
 Bare Metal vs LL vs HL

@@ -6,7 +6,7 @@
 name: Markus Lin
 
 # Short bio or description (displayed in the header)
-description: Coding for fun
+description: Coding Diary, Microcontroller & Me
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/markus1268/markus1268.github.io/master/images/jekyll-logo.png
@@ -73,10 +73,11 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
+  - jekyll-seo-tag
+  
 # Exclude these files from your production _site
 exclude:
   - Gemfile
